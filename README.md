@@ -13,3 +13,6 @@ Easy barcode scanning for the adding and checking of products
 Quick search tool helps finds your product in seconds
 Store all of your previously bought items for easy re-addition to your pantry
 Makes use of the largest open database of food products in the world, with over 1 million products worldwide (https://ca.openfoodfacts.org
+
+# Screenshots
+![image](https://github.com/user-attachments/assets/3db27442-6b5c-410d-8619-f6773d3730af)
